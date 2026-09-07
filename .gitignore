@@ -1,0 +1,26 @@
+# Binaries built from ./cmd/botreaper (use `go build -o botreaper ./cmd/botreaper`).
+# Anchored to repo root — an unanchored `botreaper` pattern would also
+# ignore the cmd/botreaper/ source directory.
+/botreaper
+/botreaper.exe
+/hermes
+/hermes.exe
+
+# Go test / coverage artifacts
+*.test
+*.out
+coverage*.txt
+coverage.html
+cpu.prof
+mem.prof
+
+# Local secret files (never commit real keys)
+/.env
+*.env.local
+
+# Editors / OS
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
