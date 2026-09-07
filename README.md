@@ -12,6 +12,7 @@
  ░          ░ ░              ░        ░  ░     ░  ░            ░  ░   ░     
       ░ 
 ```
+### Under Testing*
 
 High-performance Go port of `hermes-agent-python/hermes-agent` (v0.21.0),
 rebranded as BotReaper.
