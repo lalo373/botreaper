@@ -14,7 +14,7 @@
 ```
 ### Under Testing*
 
-High-performance Go port of `hermes-agent-python/hermes-agent` (v0.21.0),
+High-performance Go port of [Hermes Agent](https://hermes-agent.nousresearch.com/) (v0.21.0),
 rebranded as BotReaper.
 
 See `ARCHITECTURE.md` for the Phase 1 inventory, 1:1 package map,
